@@ -23,8 +23,6 @@ int main() {
 	
 	push(t, 10);
 	push(t, 20);
-	push(t, 30);
-	push(t, 40);
 	
 	Type *r = t->t;
 	
